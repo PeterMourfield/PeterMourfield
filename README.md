@@ -6,7 +6,6 @@ You can find me on any of the following websites:
 
 * [LinkedIn](https://www.linkedin.com/in/petermourfield/)
 * [StackOverflow](https://stackoverflow.com/users/2505746/peter-mourfield)
-* [GitHub](https://github.com/PeterMourfield)
 * [LeetCode](https://leetcode.com/petermourfield/)
 * [Kaggle](https://www.kaggle.com/petermourfield)
 
