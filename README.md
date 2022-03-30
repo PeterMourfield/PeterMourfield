@@ -1,14 +1,8 @@
-### Hi Friends! 👋
+### Hi Friends, I'm Peter! 👋
 
-I am the Chief Technology Officer at TaxSlayer and have been developing software since 1996. I have a Masters in Computer Science from the University of South Carolina and a Bachelors in Information Technology from Georgia Southern University.
+I’ve spent my career in software development. I’ve gone from being a Software Developer and Architect, to an Engineering Manager, and am now a Chief Technology Officer (CTO).
 
-You can find me on any of the following websites:
-
-* [LinkedIn](https://www.linkedin.com/in/petermourfield/)
-* [Twitter](https://twitter.com/petermourfield)
-* [StackOverflow](https://stackoverflow.com/users/2505746/peter-mourfield)
-* [LeetCode](https://leetcode.com/petermourfield/)
-* [Kaggle](https://www.kaggle.com/petermourfield)
+My website is https://PeterMourfield.com
 
 <!--
 **PeterMourfield/PeterMourfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
